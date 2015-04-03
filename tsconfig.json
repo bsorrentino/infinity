@@ -14,6 +14,7 @@
         "!./infinity.d.ts"
     ],
     "files": [
-        "./infinity.ts"
+        "./infinity.ts",
+        "./typings/jquery/jquery.d.ts"
     ]
 }

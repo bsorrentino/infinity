@@ -10,6 +10,8 @@ Porting of javascript code to TypeScript, allowing to use this amazing js librar
 
 * [TypeScript Definition manager for DefinitelyTyped](https://github.com/DefinitelyTyped/tsd)
 
+**run** `> tsc --declaration infinity.ts typings/jquery/jquery.d.ts` **to extract definition**
+
 ---
 
 ```
